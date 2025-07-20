@@ -1,6 +1,6 @@
 # mywallet
 
-About This Wallet Application
+*About This Wallet Application*
 
 This is a simple and straightforward wallet application designed to help you manage your money with ease. Think of it like a personal digital wallet, similar to services you might already be familiar with, such as PayPal.
 
